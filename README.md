@@ -1,1 +1,4 @@
-# [Notion com instruções do desafio](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72#9328e9f30c9544148655005bb4d609dc)
+# [Notion com instruções do desafio](https://www.notion.so/Desafio-02-Documentando-com-Swagger-8ce869ea608743e292851bd951f3239f)
+
+## Observação
+Desafio foi documentar a API criada no desafio 1
